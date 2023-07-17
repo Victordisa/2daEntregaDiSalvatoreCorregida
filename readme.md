@@ -1,1 +1,1 @@
-2da entrega carrito de compra JS terminado.
+carrito de compra js 2da entrega.
